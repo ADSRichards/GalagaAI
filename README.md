@@ -1,4 +1,4 @@
-# Self-Learning Galaga
+# Self-Learning Galaga Script
 
 1. Get FCEUX and a Galaga ROM.
 2. Run FCEUX and go to file -> new Lua script window and run the script.
