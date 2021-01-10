@@ -1,5 +1,7 @@
 # Self-Learning Galaga Script
 
+![](./img/rd_iter3.gif)
+
 1. Get FCEUX and a Galaga ROM.
 2. Run FCEUX and go to file -> new Lua script window and run the script.
 
